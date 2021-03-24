@@ -1,4 +1,4 @@
-Country,Year,Hepatitis B,Measles , BMI ,Polio,Diphtheria , HIV/AIDS,Alcohol,Life expectancy 
+Country,Year,HepatitisB,Measles,BMI,Polio,Diphtheria,HIV/AIDS,Alcohol,LifeExpectancy 
 Afghanistan,2015,65.0,1154.0,19.1,6.0,65.0,0.1,0.0,65.0
 Afghanistan,2014,62.0,492.0,18.6,58.0,62.0,0.1,0.0,59.9
 Afghanistan,2013,64.0,430.0,18.1,62.0,64.0,0.1,0.0,59.9
